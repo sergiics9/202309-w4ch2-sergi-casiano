@@ -99,7 +99,7 @@ export function UserForm() {
           required
         />
         <label htmlFor="newsletter">
-          Would you like to recive our newsletter?{' '}
+          Would you like to recive our newsletter?
         </label>
       </div>
 

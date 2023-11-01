@@ -55,7 +55,7 @@ export function UserForm() {
         </div>
       </fieldset>
       <div className="form-control">
-        <label htmlFor="comments">Birthdate</label>
+        <label htmlFor="comments">Birthdate </label>
         <input
           type="date"
           name="birthdate"
@@ -80,7 +80,7 @@ export function UserForm() {
       </div>
 
       <div className="form-control">
-        <label htmlFor="email">Email</label>
+        <label htmlFor="email">Email </label>
         <input
           type="email"
           name="email"
